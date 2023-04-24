@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alegnaaived
 - 👀 I’m interested in Data Visualization, Education Tech, Sports, wellness, and life improvements
 - 🌱 I’m currently working with React JS, Flutter & SFCC
-- 💞️ I’m looking to collaborate on interesting projects
+- 💞️ I’m looking to collaborate on interesting projects and learning about other technologies
 - 📫 How to reach me: alegnaaived@gmail.com
 
 <!---
